@@ -1,5 +1,8 @@
 # 2-complement
 
+Please solve the following exercises on a paper and create a PR which includes your
+solutions attached as an image.
+
 ## Useful sources
 
 * https://en.wikipedia.org/wiki/Two%27s_complement
