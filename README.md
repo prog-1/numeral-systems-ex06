@@ -42,7 +42,7 @@ Convert base-10 numbers to base-2, calculate the following statements using 8 bi
  
  ```text
  -1 (10) * -1 (10) = ? (2)
- -4 (10) *  2 (10)  = ? (2)
+ -4 (10) *  2 (10) = ? (2)
   4 (10) * -2 (10) = ? (2)
  -4 (10) * -4 (10) = ? (2)
  -8 (10) * -8 (10) = ? (2)
