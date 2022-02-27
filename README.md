@@ -61,4 +61,9 @@ Represent the following negative numbers in 10- and 16- complements using 4 posi
 ```
 
 Think what are the min values we could represent with 10- and 16- complements using 4 positions.
+![photo1645991342](https://user-images.githubusercontent.com/90559663/155897748-76e03f65-a5d6-408c-ad99-4d713be0d485.jpeg)
+![photo1645991342 (1)](https://user-images.githubusercontent.com/90559663/155897753-f6e0dba6-b35f-412f-8a40-ed2086438766.jpeg)
+![photo1645991342 (2)](https://user-images.githubusercontent.com/90559663/155897757-c715da2f-b9f9-4ccc-a319-c21f4f1adc67.jpeg)
+![photo1645991342 (3)](https://user-images.githubusercontent.com/90559663/155897759-25efdcd6-dac3-4434-9c95-09d463bfee53.jpeg)
+![photo1645991342 (4)](https://user-images.githubusercontent.com/90559663/155897762-c449f7c2-04a9-4ae2-8ee0-b3c614dcc3a0.jpeg)
 
