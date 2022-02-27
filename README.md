@@ -1,4 +1,5 @@
 # 2-complement
+-
 
 Please solve the following exercises on a paper and create a PR which includes your
 solutions attached as an image.
