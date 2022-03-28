@@ -62,3 +62,5 @@ Represent the following negative numbers in 10- and 16- complements using 4 posi
 
 Think what are the min values we could represent with 10- and 16- complements using 4 positions.
 
+
+dd
